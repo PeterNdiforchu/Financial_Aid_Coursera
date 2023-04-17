@@ -1,4 +1,7 @@
 # Financial Aid Application - Coursera
+
+Google recently launched a new course - **Google Advanced Data Analytics Course**. This write up is a step-by-step process to apply for scholarship for this course. 
+
 <img width="1437" alt="FinAid_Coursera_1" src="https://user-images.githubusercontent.com/76578061/232374736-fc76a12c-51bb-4a6c-85e8-7127e4bebddc.png">
 
 <img width="717" alt="FinAid_Coursera_2" src="https://user-images.githubusercontent.com/76578061/232374801-b8547c58-8994-4c73-8406-9ae5b7a93a0a.png">
