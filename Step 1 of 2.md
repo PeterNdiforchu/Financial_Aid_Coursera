@@ -1,3 +1,5 @@
 # Reason you applied for aid
 
+<img width="1422" alt="FinAid_Coursera_5" src="https://user-images.githubusercontent.com/76578061/232375942-f9b77d3d-0b98-4324-ae73-0cd8cd213eac.png">
+
 I am applying for financial aid because I need help in getting the knowledge needed to achieve my goal of becoming a Senior Data Analyst at my current company. I am a father of 2 kids and with the current economic downturn and inflation, what I make monthly is not enough at the end of the month to afford for the training course. I am looking to improve my means by upskilling and getting better market value on my skills and experience. I am a skilled technologist and always have but my skills can only be validated in the job market by industry-wide recognized certifications and capstone projects like Google Certificates. I have already completed the Google Data Analyst Certificate which has grounded me in the fundamentals of Data Analytics. My hope is that this course will ground me with the knowledge of tools needed to succeed as a Data Analyst
